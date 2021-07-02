@@ -4,11 +4,11 @@ My name is Eugene and I am a young developer from Russia. I am interested in pro
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParzivalEugene&show_icons=true)](https://github.com/ParzivalEugene)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParzivalEugene&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParzivalEugene&layout=compact)](https://github.com/ParzivalEugene)
 
 ### Actual project - [Samurai](https://github.com/ParzivalEugene/Samurai)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParzivalEugene&repo=samurai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParzivalEugene&repo=samurai)](https://github.com/ParzivalEugene/Samurai)
 
 ### My company - [INVINCIBLE WARRIORS](https://github.com/invincible-warriors)
 
