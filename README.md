@@ -2,7 +2,7 @@
 
 # Greetings 👋
 
-My name is Eugene and I am a young developer from Russia. I am interested in promoting open source projects and improving my programming skills. I can confidently say that I know Python and can work with many libraries. I also know SQL and can use a DBMS in tandem with Python. Of course, I know the basics of HTML, CSS and Javascript. At the moment I am working on my discord bot - Samurai.
+My name is Eugene and I am a young developer. I am interested in promoting open source projects and improving my programming skills. I can confidently say that I know Python and can work with many libraries. I also know SQL and can use a DBMS in tandem with Python. Of course, I know the basics of HTML, CSS and Javascript. At the moment I am working on my discord bot - Samurai.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParzivalEugene&show_icons=true)](https://github.com/ParzivalEugene)
 
