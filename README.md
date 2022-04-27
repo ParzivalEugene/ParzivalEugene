@@ -2,7 +2,7 @@
 
 # Welcome to my profile 👋
 
-I'm Eugene and I goddammit love coding. I can make up websites on React or Next, write telegrams or discord bots and automate all life processes using code. I love open source and am ready for any offers of cooperation. Feel free to contact me.
+I'm Eugene and I goddammit love coding. I can make up websites on React or Next, write telegram or discord bots and automate all life processes using code. I love open source and am ready for any offers of cooperation. Feel free to contact me.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParzivalEugene&show_icons=true)](https://github.com/ParzivalEugene)
 
@@ -19,13 +19,13 @@ My skills
 ](https://github.com/ParzivalEugene/SamuraiWebsite)
 
 ## My team - [INVINCIBLE WARRIORS](https://github.com/invincible-warriors)
-![](https://avatars.githubusercontent.com/u/85573053?s=200&amp;v=4)
+![](https://avatars.githubusercontent.com/u/85573053?s=204&amp;v=4)
 
 If you love coding as much as we do, we need you. We welcome everyone.
 
 ## Portfolio
 
-![](https://avatars.githubusercontent.com/u/60107488?v=4)
+<img src="https://avatars.githubusercontent.com/u/60107488?v=4" width="204">
 
 [![porfolio](https://img.shields.io/badge/michkoff-portfolio-blueviolet?style=for-the-badge&logo=chainlink)](https://www.michkoff.com)
 
