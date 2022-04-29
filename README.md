@@ -8,7 +8,7 @@ I'm Eugene and I goddammit love coding. I can make up websites on React or Next,
 
 ## My skills
 
-![My skills](https://skillicons.dev/icons?i=py,django,js,nodejs,react,next,redux,sass,html,css,figma,aws&theme=dark&perline=6)
+![My skills](https://skillicons.dev/icons?i=py,django,js,nodejs,react,next,redux,sass,figma,git,docker,aws&theme=dark&perline=6)
 
 ## Current project - [Boobster](https://github.com/invincible-warriors/Boobster)
 
