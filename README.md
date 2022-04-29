@@ -4,22 +4,24 @@
 
 I'm Eugene and I goddammit love coding. I can make up websites on React or Next, write telegram or discord bots and automate all life processes using code. I love open source and am ready for any offers of cooperation. Feel free to contact me.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParzivalEugene&show_icons=true)](https://github.com/ParzivalEugene)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParzivalEugene&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/ParzivalEugene)
 
-My skills
+## My skills
 
 ![My skills](https://skillicons.dev/icons?i=py,django,js,nodejs,react,next,redux,sass,html,css,figma,aws&theme=dark&perline=6)
 
-## The biggest project - [Samurai Discord Bot](https://github.com/ParzivalEugene/Samurai)
-[
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParzivalEugene&repo=samurai)
-](https://github.com/ParzivalEugene/Samurai)
+## Current project - [Boobster](https://github.com/invincible-warriors/Boobster)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParzivalEugene&repo=samuraiwebsite)
-](https://github.com/ParzivalEugene/SamuraiWebsite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=invincible-warriors&repo=boobster&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/invincible-warriors/Boobster)
+
+## The biggest project - [Samurai Discord Bot](https://github.com/ParzivalEugene/Samurai)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParzivalEugene&repo=samurai&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/ParzivalEugene/Samurai)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParzivalEugene&repo=samuraiwebsite&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/ParzivalEugene/SamuraiWebsite)
 
 ## My team - [INVINCIBLE WARRIORS](https://github.com/invincible-warriors)
-![](https://avatars.githubusercontent.com/u/85573053?s=204&amp;v=4)
+![Team avatar](https://avatars.githubusercontent.com/u/85573053?s=204&amp;v=4)
 
 If you love coding as much as we do, we need you. We welcome everyone.
 
