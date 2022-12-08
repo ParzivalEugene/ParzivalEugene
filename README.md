@@ -4,6 +4,8 @@
 
 My name is Eugene and I fucking love coding. Check out the info about me and if you want to connect, the links are at the very bottom.
 
+By the way, I'm 17 y.o.
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParzivalEugene&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&count_private=true)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParzivalEugene&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)
