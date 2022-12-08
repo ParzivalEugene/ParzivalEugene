@@ -14,9 +14,7 @@ By the way, I'm 17 y.o.
 
 ![My skills](https://skillicons.dev/icons?i=ts,js,md,html,css,sass,figma,tailwind,styledcomponents,nodejs,react,next,express,docker,py,fastapi,django,prisma,postgres,mongo,git&theme=dark&perline=7)
 
-## Current project - [Discopus](https://github.com/nickmatsnev/DiscopusNext)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickmatsnev&repo=DiscopusNext&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/nickmatsnev/DiscopusNext)
+## Current project - [Discopus](https://github.com/Discopus/)
 
 ## Portfolio
 
