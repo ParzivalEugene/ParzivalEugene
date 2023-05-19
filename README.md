@@ -29,7 +29,3 @@ I have been solving problems for codewars since June 2020.
 ## My links
 
 [![links](https://img.shields.io/badge/michkoff-links-blueviolet?style=for-the-badge&logo=chainlink)](https://links.michkoff.com)
-
-[![instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/_parzival.eugene_/)
-[![discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/414105456907386886)
-[<img src="telegram.png" width="48">](https://t.me/parzival_eugene)
