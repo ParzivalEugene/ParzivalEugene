@@ -1,8 +1,8 @@
 
 
-# Welcome to my profile 👋
+# Hi, I'm Eugene Michkov
 
-My name is Eugene and I fucking love coding. Check out the info about me and if you want to connect, the links are at the very bottom.
+Check out the info about me and if you want to connect, the links are at the very bottom.
 
 By the way, I'm 18 y.o.
 
