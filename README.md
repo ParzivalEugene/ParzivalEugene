@@ -12,18 +12,6 @@ Check out the info about me and if you want to connect, the links are at the ver
 
 ![My skills](https://skillicons.dev/icons?i=ts,js,md,html,css,sass,figma,tailwind,styledcomponents,nodejs,react,next,express,docker,py,fastapi,django,prisma,postgres,mongo,git&theme=dark&perline=7)
 
-## Portfolio
-
-<img src="https://avatars.githubusercontent.com/u/60107488?v=4" width="204">
-
-[![porfolio](https://img.shields.io/badge/michkoff-portfolio-blueviolet?style=for-the-badge&logo=chainlink)](https://www.michkoff.com)
-
-## Codewars 
-
-[![codewars](https://www.codewars.com/users/ParzivalEugene/badges/large)](https://www.codewars.com/users/ParzivalEugene)
-
-I have been solving problems for codewars since June 2020.
-
 ## My links
 
 [![links](https://img.shields.io/badge/michkoff-links-blueviolet?style=for-the-badge&logo=chainlink)](https://links.michkoff.com)
