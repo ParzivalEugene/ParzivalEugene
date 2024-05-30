@@ -1,12 +1,10 @@
-
-
 # Hi, I'm Eugene Michkov
 
 Check out the info about me and if you want to connect, the links are at the very bottom.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParzivalEugene&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParzivalEugene&show_icons=true&theme=github_dark&border_color=30363d&count_private=true&rank_icon=github&include_all_commits=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParzivalEugene&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParzivalEugene&layout=donut&count_private=true&theme=github_dark&border_color=30363d)
 
 ## My skills
 
@@ -14,4 +12,4 @@ Check out the info about me and if you want to connect, the links are at the ver
 
 ## My links
 
-[![links](https://img.shields.io/badge/michkoff-links-blueviolet?style=for-the-badge&logo=chainlink)](https://links.michkoff.com)
+[![links](https://github.com/ParzivalEugene/Links/blob/v4.0/readme/readme.png?raw=true)](https://links.michkoff.com)
